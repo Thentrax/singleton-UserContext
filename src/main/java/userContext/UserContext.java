@@ -35,5 +35,4 @@ public class UserContext {
     public void setUserType(String userType) {
         this.userType = userType;
     }
-
 }
